@@ -1,0 +1,2 @@
+OrderNumber ,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,test1,11112020,100,test,100,100,100,100,100,100,100

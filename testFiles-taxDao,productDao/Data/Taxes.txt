@@ -1,0 +1,2 @@
+StateAbbreviation,StateName,TaxRate
+TX,Texas,4.45

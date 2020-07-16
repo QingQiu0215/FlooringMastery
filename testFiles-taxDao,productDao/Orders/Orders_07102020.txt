@@ -1,0 +1,2 @@
+OrderNumber ,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,abcde,KY,6.00,Laminate,321.00,1.75,2.10,561.75,674.10,74.15,1310.00

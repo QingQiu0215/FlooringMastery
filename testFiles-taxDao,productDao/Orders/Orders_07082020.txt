@@ -1,0 +1,4 @@
+OrderNumber ,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,qing.qiu,UT,32,Tile,129,3.50,4.15,451.50,535.35,315.7920,1302.6420
+2,min,UT,32,Tile,100,3.50,4.15,700.00,830.00,489.6000,2019.6000
+3,aaabbb,NY,25.00,Wood,300.00,5.15,4.75,1545.00,1425.00,742.50,3712.50

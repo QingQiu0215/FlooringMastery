@@ -1,0 +1,11 @@
+StateAbbreviation,StateName,TaxRate
+TX,Texas,4.45
+WA,Washington,9.25
+KY,Kentucky,6.00
+CA,Calfornia,25.00
+UT,UTAH,32
+NY,New York,25
+AL,ALABAMA,22
+AK,ALASKA,12
+AZ,ARIZONA,12
+AR,Arkansas,30
